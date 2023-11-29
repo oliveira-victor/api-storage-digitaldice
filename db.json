@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "The Jungle Quest",
+            "previousPrice": 23,
+            "currentPrince": 15,
+            "genre": ["Adventure"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/the-jungle-quest.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere.",
+            "highlight": false
+        },
+        {
+            "id": 2,
+            "title": "Animals Race",
+            "previousPrice": 15,
+            "currentPrince": 10,
+            "genre": ["Race"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/animals-race.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": true
+        },
+        {
+            "id": 3,
+            "title": "Dancing Robot",
+            "previousPrice": null,
+            "currentPrince": 7,
+            "genre": ["Music rhythm"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/dancing-robot.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": false
+        },
+        {
+            "id": 4,
+            "title": "Taming Snakes",
+            "previousPrice": 17,
+            "currentPrince": 12,
+            "genre": ["Strategy"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/taming-snakes.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": true
+        },
+        {
+            "id": 5,
+            "title": "Detective Capybara",
+            "previousPrice": null,
+            "currentPrince": 7,
+            "genre": ["Puzzle"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/detective-capybara.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": true
+        },
+        {
+            "id": 6,
+            "title": "First Round Boxe",
+            "previousPrice": null,
+            "currentPrince": 12,
+            "genre": ["Sport"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/first-round-boxe.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": false
+        },
+        {
+            "id": 7,
+            "title": "Snowboard Penguins",
+            "previousPrice": 10,
+            "currentPrince": 8,
+            "genre": ["Sport"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/snowboard-penguins.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": false
+        },
+        {
+            "id": 8,
+            "title": "Alien Tennis",
+            "previousPrice": null,
+            "currentPrince": 5,
+            "genre": ["Sport"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/alien-tennis.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": false
+        },
+        {
+            "id": 9,
+            "title": "Wrecked Justice",
+            "previousPrice": null,
+            "currentPrince": 12,
+            "genre": ["RPG"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/wrecked-justice.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": false
+        },
+        {
+            "id": 10,
+            "title": "Bomber Ninja",
+            "previousPrice": 12,
+            "currentPrince": 10,
+            "genre": ["RPG", "Strategy"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/bomber-ninja.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": false
+        },
+        {
+            "id": 11,
+            "title": "Brave Bear",
+            "previousPrice": 18,
+            "currentPrince": 13,
+            "genre": ["Adventure"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/brave-bear.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": false
+        },
+        {
+            "id": 12,
+            "title": "Casting Spells",
+            "previousPrice": null,
+            "currentPrince": 9,
+            "genre": ["RPG"],
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/casting-spells.webp",
+            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "highlight": false
+        }
+    ]
+}
