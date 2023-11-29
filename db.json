@@ -6,7 +6,7 @@
             "previousPrice": 23,
             "currentPrince": 15,
             "genre": ["Adventure"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/the-jungle-quest.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/the-jungle-quest.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere.",
             "highlight": false
         },
@@ -16,7 +16,7 @@
             "previousPrice": 15,
             "currentPrince": 10,
             "genre": ["Race"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/animals-race.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/animals-race.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": true
         },
@@ -26,7 +26,7 @@
             "previousPrice": null,
             "currentPrince": 7,
             "genre": ["Music rhythm"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/dancing-robot.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/dancing-robot.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": false
         },
@@ -36,7 +36,7 @@
             "previousPrice": 17,
             "currentPrince": 12,
             "genre": ["Strategy"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/taming-snakes.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/taming-snakes.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": true
         },
@@ -46,7 +46,7 @@
             "previousPrice": null,
             "currentPrince": 7,
             "genre": ["Puzzle"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/detective-capybara.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/detective-capybara.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": true
         },
@@ -56,7 +56,7 @@
             "previousPrice": null,
             "currentPrince": 12,
             "genre": ["Sport"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/first-round-boxe.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/first-round-boxe.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": false
         },
@@ -66,7 +66,7 @@
             "previousPrice": 10,
             "currentPrince": 8,
             "genre": ["Sport"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/snowboard-penguins.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/snowboard-penguins.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": false
         },
@@ -76,7 +76,7 @@
             "previousPrice": null,
             "currentPrince": 5,
             "genre": ["Sport"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/alien-tennis.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/alien-tennis.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": false
         },
@@ -86,7 +86,7 @@
             "previousPrice": null,
             "currentPrince": 12,
             "genre": ["RPG"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/wrecked-justice.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/wrecked-justice.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": false
         },
@@ -96,7 +96,7 @@
             "previousPrice": 12,
             "currentPrince": 10,
             "genre": ["RPG", "Strategy"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/bomber-ninja.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/bomber-ninja.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": false
         },
@@ -106,7 +106,7 @@
             "previousPrice": 18,
             "currentPrince": 13,
             "genre": ["Adventure"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/brave-bear.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/brave-bear.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": false
         },
@@ -116,7 +116,7 @@
             "previousPrice": null,
             "currentPrince": 9,
             "genre": ["RPG"],
-            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/servidor_estaticos/main/digital-dice_server/images/casting-spells.webp",
+            "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/casting-spells.webp",
             "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
             "highlight": false
         }
