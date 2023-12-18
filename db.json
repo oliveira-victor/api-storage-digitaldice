@@ -37,7 +37,7 @@
             "currentPrice": 12,
             "genre": ["Strategy"],
             "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/taming-snakes.webp",
-            "info": "In this peaceful faraway village, where the citizens life their calm lives, there is a huge invasion of snakes, and they are everywhere! In the sink, on your bed or under your hat. What to do? Call the snake tamer! In this game, you'll find each snake around the city and attract them to the trap, before the time runs out. For that, you need to have a good strategy and patience, as the snakes can be really stubborn.",
+            "info": "In this peaceful faraway village, where the citizens live their calm lives, there is a huge invasion of snakes, and they are everywhere! In the sink, on your bed or under your hat. What to do? Call the snake tamer! In this game, you'll find each snake around the city and attract them to the trap, before the time runs out. For that, you need to have a good strategy and patience, as the snakes can be really stubborn.",
             "highlight": true
         },
         {
@@ -57,7 +57,7 @@
             "currentPrice": 12,
             "genre": ["Sport"],
             "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/first-round-boxe.webp",
-            "info": "Let the round begin! The fans of boxe will have a blast with the this game that contains with plenty of fighters and the option to customise characters. The championships happen in different countries, with incredible graphics and realistic movements of the fighters. In the journey mode, you'll create your custom character and start kn5a simple championship in the hood, going through bigger events as you win the fights, until you become a world championship.",
+            "info": "Let the round begin! The fans of boxe will have a blast with the this game that contains plenty of fighters and the option to customise characters. The championships happen in different countries, with incredible graphics and realistic movements of the fighters. In the journey mode, you'll create your custom character and start from a simple championship in the hood, going through bigger events as you win the fights, until you become a world championship.",
             "highlight": false
         },
         {
@@ -87,7 +87,7 @@
             "currentPrice": 12,
             "genre": ["RPG"],
             "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/wrecked-justice.webp",
-            "info": "In a futuristic society, when the system collapsed and chaos was spread, different gangs try to take control over the population, one in particular has been gaining control and using evil ways of ruling the people from the fallen city of Phirya. Our heroes Din and Lenya are going to resist and grow their party in order to fight back the oppressors in  this exciting cyberpunk RPG filled with challenges and magic.",
+            "info": "In a futuristic society, when the system collapsed and chaos was spread, different gangs try to take control over the population, one in particular has been gaining power and using evil ways of ruling the people from the fallen city of Phirya. Our heroes Din and Lenya are going to resist and grow their party in order to fight back the oppressors in  this exciting cyberpunk RPG filled with challenges and magic.",
             "highlight": false
         },
         {
@@ -97,7 +97,7 @@
             "currentPrice": 10,
             "genre": ["RPG", "Strategy"],
             "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/bomber-ninja.webp",
-            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "info": "This is a crazy and fun RPG where you control a ninja, and your goal is to brake into places using bombs, using strategies not to get caught by the enemies. You grow level as you succeed in your missions, planting bombs here and there, and not blowing yourself up in the process. The puzzles involved will keep you entertained, and the rewards are just terrific.",
             "highlight": false
         },
         {
@@ -107,7 +107,7 @@
             "currentPrice": 13,
             "genre": ["Adventure"],
             "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/brave-bear.webp",
-            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "info": "Hunters have invaded the peaceful Forest of Hodshert, where our brave bear lives. It's time to gather with the bear team, wear some armor and go to battle. The controls in this game are outstanding! You can make use of a huge variety of movements, attacks and skills, including some amazing graphics that will blow your mind! ",
             "highlight": false
         },
         {
@@ -115,9 +115,9 @@
             "title": "Casting Spells",
             "previousPrice": null,
             "currentPrice": 9,
-            "genre": ["RPG"],
+            "genre": ["RPG", "Strategy"],
             "thumbnail": "https://raw.githubusercontent.com/oliveira-victor/api-storage-digitaldice/main/images/casting-spells.webp",
-            "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis aliquid adipisci, error numquam tempora aut enim culpa maiores debitis, voluptatibus molestias, quia hic neque voluptate dolores consequuntur optio odio libero? Delectus dolorum aspernatur debitis reiciendis pariatur quae ea laborum porro, temporibus, tempore hic non id atque esse libero perspiciatis? Obcaecati aliquam doloremque quibusdam harum numquam autem ullam ut voluptates facere",
+            "info": "In a land filled with dragons and where people use magic, different kingdoms are fighting for control, starting epic wars involving the four elements, dragons and other magic creatures. You are requested to help the queen of your land to lead an army in order to defend your people and conquer other territories. With amazing visual effects, this RPG is going to inspire you with all the magic involved and the exciting story behind it.",
             "highlight": false
         }
     ]
